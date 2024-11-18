@@ -1,0 +1,10 @@
+you are a train controller watching over a train network with trains driving around in it. Stop them from crashing into each other. You can do this by drawing cards from your deck, which can have various effects on your train network.
+
+Ghost: all train within an area of where this is played cannot collide with other trains for a few seconds.
+Freeze: all trains within an area are frozen for a few seconds
+Track: add an extra point to a track spline of your choice
+Station: add an extra station that trains have to stop at
+
+There are also negative cards, which clog up your limited hand space if you don't play them:
+TRAIN: place an extra train in a network
+anti-station: remove a random station from your network
